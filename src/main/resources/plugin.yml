@@ -1,0 +1,6 @@
+name: Hopper16
+version: 1.1.0
+main: com.ervv.hopper16.Hopper16
+api-version: '26.3'
+description: Bulk hopper transfers, including hopper minecarts.
+author: Ervv
